@@ -1,0 +1,21 @@
+{
+    "name": "Chargebee",
+    "owner": "WSO2",
+    "category": "Billing and Accounting",
+    "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/ChargeBee+Connector",
+    "description": "The Chargebee connector allows you to access the Chargebee REST API through the WSO2 ESB.ChargeBee is a very flexible system and helps to implement a clean and intuitive checkout page for subscribers as well as host a fully functional customer portal.",
+    "status": "Unsupported",
+    "labels": [
+        "connector"
+    ],
+    "releases": [
+        {
+            "tagName": "v1.0.1",
+            "products": [
+                "ESB 5.0.0",
+                "ESB 4.9.0"
+            ],
+            "isHidden": false
+        }
+    ]
+}
